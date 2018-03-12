@@ -27,7 +27,7 @@ deploy:
   file_glob: true
   file: 'out/*.{exe,zip}'
   on:
-    repo: FluxFlux/WSL-DistroLauncher
+    repo: FluxFlu/WSL-DistroLauncher
     tags: true
     all_branches: true
   skip_cleanup: true
